@@ -1,0 +1,1 @@
+SELECT Event.Title FROM Event WHERE Event.Type = 'Club meeting';
